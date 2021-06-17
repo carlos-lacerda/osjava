@@ -37,7 +37,7 @@
     <dependency>
       <artifactId>commons-collections</artifactId>
       <groupId>commons-collections</groupId>
-      <version>2.1</version>
+      <version>3.2.2</version>
       <!-- <url>http://jakarta.apache.org/commons/collections.html</url> -->
     </dependency>
   </dependencies>
